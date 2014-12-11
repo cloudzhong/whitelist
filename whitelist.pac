@@ -501,6 +501,7 @@ var chineseDomains = [
 ".qiyipic.com",
 ".qiyou.com",
 ".qjy168.com",
+".qorosauto.com",
 ".qq.com",
 ".qq937.com",
 ".qqmail.com",
