@@ -5,6 +5,13 @@
 
 */
 
+
+//top domain
+
+var baseDomains = [
+".cn"
+];
+
 // Chinese domains
 var chineseDomains = [
 "07073.com",
@@ -187,7 +194,6 @@ var chineseDomains = [
 "chuangelm.com",
 "ci123.com",
 "cmbchina.com",
-".cn",
 "cnbeta.com",
 "cnblogs.com",
 "cncn.com",
@@ -705,8 +711,15 @@ function FindProxyForURL(url, host) {
     // plain IP
 	var re_ipv4 = /^\d+\.\d+\.\d+\.\d+$/g;
 	if (re_ipv4.test(host))    return DIRECT;
+	
+	//end with .cn and other base domains.
+	for (var i = 0; i < baseDomains.length; i++) {
+        if (dnsDomainIs(host, baseDomains[i])) {
+			return DIRECT;
+		}
+	} 
 	 
-    // match main domain. eg: http://www.verycd.com, http://ip138.com/
+    // match chinese domain. eg: http://www.verycd.com, http://ip138.com/
 	for (var i = 0; i < chineseDomains.length; i++) {
         if (dnsDomainIs(host, chineseDomains[i])) {
 			return DIRECT;
