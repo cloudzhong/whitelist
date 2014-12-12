@@ -187,7 +187,7 @@ var chineseDomains = [
 "chuangelm.com",
 "ci123.com",
 "cmbchina.com",
-"cn",
+".cn",
 "cnbeta.com",
 "cnblogs.com",
 "cncn.com",
