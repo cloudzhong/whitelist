@@ -610,7 +610,7 @@ var chineseDomains = [
 ".wangyin.com",
 ".wdjimg.com",
 ".web887.com",
-".weibo.com",
+"weibo.com",
 ".weiphone.com",
 ".west263.com",
 ".whlongda.com",
