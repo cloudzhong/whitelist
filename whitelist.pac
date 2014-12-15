@@ -295,7 +295,6 @@ var chineseDomains = [
 "goodbabygroup.com",
 "google-analytics.com",
 "gougou.com",
-"gravatar.com",
 "gtimg.com",
 "gy9y.com",
 "gzmama.com",
