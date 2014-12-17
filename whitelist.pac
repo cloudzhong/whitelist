@@ -455,6 +455,7 @@ var chineseDomains = [
 "qianlong.com",
 "qidian.com",
 "qingdaonews.com",
+"qiniudn.com",
 "qire123.com",
 "qiushibaike.com",
 "qiyi.com",
