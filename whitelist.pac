@@ -539,6 +539,7 @@ var chineseDomains = [
 "umiwi.com",
 "uniontoufang.com",
 "up2c.com",
+"uptraveler.com",
 "uusee.com",
 "uuu9.com",
 "uuzu.com",
