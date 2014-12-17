@@ -78,6 +78,7 @@ var chineseDomains = [
 "52pk.net",
 "52tlbb.com",
 "53kf.com",
+"54traveler.com",
 "55bbs.com",
 "55tuan.com",
 "56.com",
