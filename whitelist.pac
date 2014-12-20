@@ -403,7 +403,6 @@ var chineseDomains = [
 "meizu.com",
 "mi.com",
 "miaozhen.com",
-"microsoft.com",
 "miercn.com",
 "miwifi.com",
 "mlt01.com",
