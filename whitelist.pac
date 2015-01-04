@@ -474,6 +474,7 @@ var chineseDomains = [
 "readnovel.com",
 "renren.com",
 "rrimg.com",
+".sanfo.com",
 "sanguosha.com",
 "scorecardresearch.com",
 "sdo.com",
