@@ -298,6 +298,7 @@ var chineseDomains = [
 "hotsales.net",
 "house365.com",
 "huaban.com",
+"huawei.com",
 "huanqiu.com",
 "hudong.com",
 "huochepiao.com",
