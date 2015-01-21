@@ -289,8 +289,6 @@ var chineseDomains = [
 "ipinyou.com",
 "iqilu.com",
 "iqiyi.com",
-"irs01.com",
-"irs01.net",
 "is686.com",
 "it168.com",
 "iteye.com",
