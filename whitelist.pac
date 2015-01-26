@@ -363,6 +363,7 @@ var chineseDomains = [
 "mediav.com",
 "meilele.com",
 "meilishuo.com",
+".meipai.com",
 "meishichina.com",
 "meituan.com",
 "meizu.com",
