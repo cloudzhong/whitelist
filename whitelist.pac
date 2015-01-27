@@ -220,6 +220,7 @@ var chineseDomains = [
 "fat999.com",
 "fblife.com",
 "fengniao.com",
+".feng.com",
 "fenzhi.com",
 "flickr.com",
 "fobshanghai.com",
