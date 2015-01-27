@@ -525,6 +525,7 @@ var chineseDomains = [
 "wandoujia.com",
 "wangyin.com",
 "wdjimg.com",
+".weand.com",
 "web887.com",
 "weibo.com",
 "weiphone.com",
