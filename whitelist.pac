@@ -575,6 +575,7 @@ var chineseDomains = [
 "yocc.net",
 "yoka.com",
 "yolk7.com",
+"yooli.com",
 "youboy.com",
 "youdao.com",
 "yougou.com",
