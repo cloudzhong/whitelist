@@ -545,6 +545,7 @@ var chineseDomains = [
 "xilu.com",
 "xinhuanet.com",
 "xinnet.com",
+"xishiqu.com",
 "xitek.com",
 "xiu.com",
 "xiyou53.com",
