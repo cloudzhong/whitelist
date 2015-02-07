@@ -450,6 +450,7 @@ var chineseDomains = [
 "sf-express.com",
 "sg560.com",
 "shangdu.com",
+"shgtheatre.com",
 "shuangtv.net",
 "sinaapp.com",
 "sinaedge.com",
