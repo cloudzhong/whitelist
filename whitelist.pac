@@ -120,6 +120,7 @@ var chineseDomains = [
 "baixing.com",
 "baomihua.com",
 "bendibao.com",
+".bdimg.com",
 "bilibili.tv",
 "bing.com",
 "bitauto.com",
