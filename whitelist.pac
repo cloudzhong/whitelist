@@ -116,6 +116,7 @@ var chineseDomains = [
 "b2b168.com",
 "babytree.com",
 "baidu.com",
+"baidustatic.com",
 "baihe.com",
 "baixing.com",
 "baomihua.com",
