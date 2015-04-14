@@ -421,6 +421,7 @@ var chineseDomains = [
 "ppstream.com",
 "pptv.com",
 "pr56789.com",
+"products.office.com",
 "q150.com",
 "qianlong.com",
 "qidian.com",
